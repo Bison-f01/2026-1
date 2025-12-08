@@ -1,0 +1,209 @@
+[08Dec2025 19:13:58.357] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[08Dec2025 19:13:58.361] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.9+10-Ubuntu-124.04
+[08Dec2025 19:13:58.362] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.4 starting: java version 21.0.9 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[08Dec2025 19:14:00.565] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[08Dec2025 19:14:00.798] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/2026-1/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[08Dec2025 19:14:01.048] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Locator {mods folder locator at /workspaces/2026-1/servidor_minecraft/mods} returned 3 files which are client-side-only mods, but we're on a dedicated server. They will be skipped!
+[08Dec2025 19:14:01.291] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
+[08Dec2025 19:14:03.133] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[08Dec2025 19:14:03.155] [main/INFO] [mixin/]: Compatibility level set to JAVA_18
+[08Dec2025 19:14:03.217] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
+[08Dec2025 19:14:03.261] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[08Dec2025 19:14:03.269] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[08Dec2025 19:14:03.274] [main/WARN] [mixin/]: Reference map 'betterdungeons.refmap.json' for betterdungeons.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Dec2025 19:14:03.275] [main/WARN] [mixin/]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Dec2025 19:14:03.276] [main/WARN] [mixin/]: Reference map 'kuma_api.refmap.json' for kuma_api.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Dec2025 19:14:03.277] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Dec2025 19:14:03.278] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Dec2025 19:14:03.278] [main/WARN] [mixin/]: Reference map 'geckolib.refmap.json' for geckolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Dec2025 19:14:03.279] [main/WARN] [mixin/]: Reference map 'goblintraders.refmap.json' for goblintraders.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Dec2025 19:14:03.280] [main/WARN] [mixin/]: Reference map 'expcounter.refmap.json' for expcounter.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Dec2025 19:14:03.281] [main/WARN] [mixin/]: Reference map 'waystones.refmap.json' for waystones.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Dec2025 19:14:03.282] [main/WARN] [mixin/]: Reference map 'waystones.refmap.json' for waystones.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Dec2025 19:14:03.284] [main/WARN] [mixin/]: Reference map 'xaeroworldmap.refmap.json' for xaeroworldmap.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Dec2025 19:14:03.284] [main/WARN] [mixin/]: Reference map 'xaeroworldmap.refmap.json' for xaeroworldmap.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Dec2025 19:14:03.288] [main/WARN] [mixin/]: Reference map 'yungsapi.refmap.json' for yungsapi.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Dec2025 19:14:03.380] [main/WARN] [mixin/]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Dec2025 19:14:03.381] [main/WARN] [mixin/]: Reference map 'balm.refmap.json' for balm.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Dec2025 19:14:03.381] [main/WARN] [mixin/]: Reference map 'fusion.mixins.refmap.json' for fusion.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Dec2025 19:14:03.384] [main/WARN] [mixin/]: Reference map 'konkrete.refmap.json' for konkrete.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Dec2025 19:14:03.385] [main/WARN] [mixin/]: Reference map 'konkrete.refmap.json' for konkrete.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Dec2025 19:14:03.385] [main/WARN] [mixin/]: Reference map 'craftingtweaks.refmap.json' for craftingtweaks.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Dec2025 19:14:03.387] [main/WARN] [mixin/]: Reference map 'trade_cycling.refmap.json' for trade_cycling.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Dec2025 19:14:03.387] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Dec2025 19:14:03.388] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Dec2025 19:14:03.393] [main/WARN] [mixin/]: Reference map 'xaerominimap.refmap.json' for xaerohud.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Dec2025 19:14:03.394] [main/WARN] [mixin/]: Reference map 'xaerominimap.refmap.json' for xaerohud.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Dec2025 19:14:03.394] [main/WARN] [mixin/]: Reference map 'xaerominimap.refmap.json' for xaerominimap.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Dec2025 19:14:03.395] [main/WARN] [mixin/]: Reference map 'xaerominimap.refmap.json' for xaerominimap.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Dec2025 19:14:03.396] [main/WARN] [mixin/]: Reference map 'mixins.tombstone.refmap.json' for tombstone.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Dec2025 19:14:03.441] [main/WARN] [mixin/]: Reference map 'deimos.refmap.json' for deimos.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Dec2025 19:14:03.441] [main/WARN] [mixin/]: Reference map 'monolib.refmap.json' for monolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Dec2025 19:14:03.442] [main/WARN] [mixin/]: Reference map 'nemos_inventory_sorting.refmap.json' for nemos_inventory_sorting.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Dec2025 19:14:03.443] [main/WARN] [mixin/]: Reference map 'justzoom.refmap.json' for justzoom.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Dec2025 19:14:03.444] [main/WARN] [mixin/]: Reference map 'justzoom.refmap.json' for justzoom.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Dec2025 19:14:04.993] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[08Dec2025 19:14:04.993] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[08Dec2025 19:14:04.994] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
+[08Dec2025 19:14:04.994] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
+[08Dec2025 19:14:04.994] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
+[08Dec2025 19:14:04.995] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
+[08Dec2025 19:14:04.995] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[08Dec2025 19:14:04.995] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
+[08Dec2025 19:14:05.127] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[08Dec2025 19:14:05.874] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/2026-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/2026-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/2026-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/2026-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[08Dec2025 19:14:06.032] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/2026-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/2026-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/2026-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/2026-1/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[08Dec2025 19:14:11.779] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[08Dec2025 19:14:11.781] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[08Dec2025 19:14:11.882] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 52.1.0, for MC 1.21.1 with MCP 20240808.132146
+[08Dec2025 19:14:11.882] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v52.1.0 Initialized
+[08Dec2025 19:14:11.901] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Loading v1.9.9 in server-side mode on FORGE!
+[08Dec2025 19:14:11.902] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: ---------------------------
+[08Dec2025 19:14:11.902] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: KONKRETE SHIPS AND USES THE FOLLOWING LIBRARIES:
+[08Dec2025 19:14:11.902] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]:  
+[08Dec2025 19:14:11.902] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: Open Imaging Copyright © 2014 Dhyan Blum.
+[08Dec2025 19:14:11.902] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: Open Imaging is licensed under Apache-2.0.
+[08Dec2025 19:14:11.903] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]:  
+[08Dec2025 19:14:11.903] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: JsonPath Copyright © 2017 Jayway.
+[08Dec2025 19:14:11.903] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: JsonPath is licensed under Apache-2.0.
+[08Dec2025 19:14:11.906] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]:  
+[08Dec2025 19:14:11.906] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: Json-smart Copyright © netplex.
+[08Dec2025 19:14:11.906] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: Json-smart is licensed under Apache-2.0.
+[08Dec2025 19:14:11.906] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]:  
+[08Dec2025 19:14:11.906] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: Exp4j Copyright © Frank Asseg.
+[08Dec2025 19:14:11.906] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: Exp4j is licensed under Apache-2.0. https://github.com/fasseg/exp4j
+[08Dec2025 19:14:11.906] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: ---------------------------
+[08Dec2025 19:14:11.907] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side modules initialized and ready to use!
+[08Dec2025 19:14:11.909] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[08Dec2025 19:14:11.927] [modloading-worker-0/INFO] [Ksyxis/MOD_KSYXIS]: Ksyxis: Booting... (platform: Forge/KForge, manual: false)
+[08Dec2025 19:14:11.928] [modloading-worker-0/INFO] [Ksyxis/MOD_KSYXIS]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it. (mixinVersion: 0.8.7, time: 0 ms)
+[08Dec2025 19:14:11.981] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.13.
+[08Dec2025 19:14:12.055] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
+[08Dec2025 19:14:13.097] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/api/mod_update/forge/goblintraders
+[08Dec2025 19:14:13.126] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[08Dec2025 19:14:13.127] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[08Dec2025 19:14:13.127] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 2
+[08Dec2025 19:14:13.191] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at SECURE-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.Gson.fromJson(Gson.java:1238) ~[gson-2.10.1.jar!/:?]
+	at SECURE-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.Gson.fromJson(Gson.java:1137) ~[gson-2.10.1.jar!/:?]
+	at SECURE-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.Gson.fromJson(Gson.java:1047) ~[gson-2.10.1.jar!/:?]
+	at SECURE-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.Gson.fromJson(Gson.java:982) ~[gson-2.10.1.jar!/:?]
+	at LAYER PLUGIN/net.minecraftforge.fmlcore@1.21.1-52.1.0/net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:161) ~[fmlcore-1.21.1-52.1.0.jar!/:1.0]
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at LAYER PLUGIN/net.minecraftforge.fmlcore@1.21.1-52.1.0/net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:104) [fmlcore-1.21.1-52.1.0.jar!/:1.0]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at SECURE-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.1.jar!/:?]
+	at SECURE-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.1.jar!/:?]
+	at SECURE-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.1.jar!/:?]
+	at SECURE-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.Gson.fromJson(Gson.java:1227) ~[gson-2.10.1.jar!/:?]
+	... 6 more
+[08Dec2025 19:14:13.192] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[08Dec2025 19:14:13.227] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[08Dec2025 19:14:13.229] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[08Dec2025 19:14:13.230] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[08Dec2025 19:14:13.231] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[08Dec2025 19:14:13.241] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: BETA Current: 10.1.11 Target: null
+[08Dec2025 19:14:13.241] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[08Dec2025 19:14:13.343] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 52.1.0 Target: null
+[08Dec2025 19:14:13.343] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Starting version check at https://update.maxhenkel.de/forge/trade_cycling
+[08Dec2025 19:14:13.654] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Found status: BETA Current: 1.21.1-1.0.18 Target: 1.21.1-1.0.18
+[08Dec2025 19:14:13.655] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Starting version check at https://raw.githubusercontent.com/VidTu/Ksyxis/main/updater_ksyxis_forge.json
+[08Dec2025 19:14:13.711] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Found status: UP_TO_DATE Current: 1.3.4 Target: null
+[08Dec2025 19:14:13.711] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[08Dec2025 19:14:13.852] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: AHEAD Current: 1-v4.4.4 Target: null
+[08Dec2025 19:14:13.852] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[08Dec2025 19:14:13.869] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 9.1.10 Target: null
+[08Dec2025 19:14:14.779] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[08Dec2025 19:14:17.736] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1583 recipes
+[08Dec2025 19:14:18.003] [main/ERROR] [net.minecraft.advancements.AdvancementTree/]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
+[08Dec2025 19:14:18.003] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1926 advancements
+[08Dec2025 19:14:18.008] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
+[08Dec2025 19:14:18.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.1
+[08Dec2025 19:14:18.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[08Dec2025 19:14:18.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[08Dec2025 19:14:18.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[08Dec2025 19:14:18.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[08Dec2025 19:14:18.893] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[08Dec2025 19:14:18.952] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[08Dec2025 19:14:18.952] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[08Dec2025 19:14:18.953] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[08Dec2025 19:14:18.953] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[08Dec2025 19:14:19.013] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 minecraft:torch
+[08Dec2025 19:14:19.013] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 minecraft:glowstone
+[08Dec2025 19:14:19.014] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
+[08Dec2025 19:14:19.014] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 minecraft:torch
+[08Dec2025 19:14:19.014] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
+[08Dec2025 19:14:19.015] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 minecraft:torch
+[08Dec2025 19:14:19.015] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 minecraft:glowstone
+[08Dec2025 19:14:19.015] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
+[08Dec2025 19:14:19.016] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 minecraft:torch
+[08Dec2025 19:14:19.016] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
+[08Dec2025 19:14:19.147] [Server thread/INFO] [spark/]: Starting background profiler...
+[08Dec2025 19:14:19.984] [Server thread/INFO] [Framework/]: Loading server configs...
+[08Dec2025 19:14:19.991] [Server thread/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[08Dec2025 19:14:19.992] [Server thread/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[08Dec2025 19:14:19.998] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[08Dec2025 19:14:20.084] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[08Dec2025 19:14:20.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[08Dec2025 19:14:24.659] [Server thread/INFO] [Ksyxis/MinecraftServerMixin/MOD_KSYXIS]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (injector: modern, ci: CallbackInfo[TYPE=CallbackInfo,NAME=prepareLevels,CANCELLABLE=false], server: net.minecraft.server.dedicated.DedicatedServer@3474987b)
+[08Dec2025 19:14:24.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[08Dec2025 19:14:24.750] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 88 ms
+[08Dec2025 19:14:24.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.772s)! For help, type "help"
+[08Dec2025 19:14:24.786] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[08Dec2025 19:14:49.988] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kamushkarkir[/100.103.0.9:60553] logged in with entity id 169 at (143.79105710748942, -25.0, 273.3653460458846)
+[08Dec2025 19:14:50.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir joined the game
+[08Dec2025 19:14:53.015] [Netty Epoll Server IO #2/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] kamushkarkir: protocol version: 2.0
+[08Dec2025 19:14:53.045] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Loading 1 plugin: shulkerboxtooltip
+[08Dec2025 19:14:53.053] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Registered 31 providers for mod shulkerboxtooltip
+[08Dec2025 19:29:40.311] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=202, y=47, z=211}
+[08Dec2025 19:34:56.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [Ice Bucket Challenge]
+[08Dec2025 19:44:39.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [Sneak 100]
+[08Dec2025 19:47:45.723] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=163, y=-41, z=307} BlockPos{x=163, y=-41, z=308}
+[08Dec2025 19:48:56.573] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=162, y=-30, z=315} BlockPos{x=162, y=-32, z=315}
+[08Dec2025 19:55:27.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has reached the goal [tombstone.advancement.strong_or_careful.title]
+[08Dec2025 19:55:27.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir fell from a high place
+[08Dec2025 19:55:27.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [tombstone.advancement.first_grave.title]
+[08Dec2025 19:55:27.562] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[08Dec2025 19:55:33.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [tombstone.advancement.enchant_grave_key.title]
+[08Dec2025 19:55:41.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has reached the goal [tombstone.advancement.teleport_to_grave.title]
+[08Dec2025 19:56:49.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [Hot Stuff]
+[08Dec2025 19:58:27.968] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir lost connection: Disconnected
+[08Dec2025 19:58:27.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir left the game
+[08Dec2025 19:58:55.018] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kamushkarkir[/100.103.0.9:61029] logged in with entity id 7315 at (205.67350722607273, -54.0, 476.3849925468977)
+[08Dec2025 19:58:55.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir joined the game
+[08Dec2025 19:58:55.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [tombstone.advancement.mysterious_gift.title]
+[08Dec2025 19:58:55.893] [Netty Epoll Server IO #4/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] kamushkarkir: protocol version: 2.0
+[08Dec2025 20:01:23.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [Enchanter]
+[08Dec2025 20:15:57.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [Sweet Dreams]
+[08Dec2025 20:19:09.668] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11270, l='ServerLevel[world]', x=-266.63, y=96.56, z=51.72] died, message: 'Villager suffocated in a wall'
+[08Dec2025 20:20:17.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [Local Brewery]
+[08Dec2025 20:21:37.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir moved too quickly! -6.505347987352025,2.8583148272754784,-7.337359939107358
+[08Dec2025 20:21:51.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has reached the goal [tombstone.advancement.villager_gift.title]
+[08Dec2025 20:21:53.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [tombstone.advancement.create_familiar_receptacle.title]
+[08Dec2025 20:22:07.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has reached the goal [tombstone.advancement.find_ancient_tablet.title]
+[08Dec2025 20:22:07.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [tombstone.advancement.create_magic_tablet.title]
+[08Dec2025 20:27:00.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir moved too quickly! -6.263046939313767,0.0,7.91433646918328
+[08Dec2025 20:31:33.135] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/11264, l='ServerLevel[world]', x=-211.70, y=108.00, z=37.45] died, message: 'Armorer was slain by kamushkarkir'
+[08Dec2025 20:31:33.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [tombstone.advancement.neighborhood_brawl.title]
+[08Dec2025 20:36:06.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir moved too quickly! -7.792751816740633,-0.10313974803862891,-6.372082453211426
+[08Dec2025 20:45:53.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has reached the goal [tombstone.advancement.choose_grave_type.title]
+[08Dec2025 20:48:06.368] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/11262, l='ServerLevel[world]', x=-209.45, y=107.92, z=35.54] died, message: 'Armorer was slain by kamushkarkir'
+[08Dec2025 20:49:00.720] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir lost connection: Disconnected
+[08Dec2025 20:49:00.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir left the game
+[08Dec2025 20:49:05.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Dec2025 20:49:05.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: X<--[HERE]
+[08Dec2025 20:49:08.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[08Dec2025 20:49:08.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Dec2025 20:49:08.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Dec2025 20:49:08.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Dec2025 20:49:09.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Dec2025 20:49:09.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08Dec2025 20:49:09.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08Dec2025 20:49:09.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Dec2025 20:49:09.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Dec2025 20:49:09.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Dec2025 20:49:09.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08Dec2025 20:49:09.243] [Server thread/INFO] [Framework/]: Unloading server configs...
+[08Dec2025 20:49:09.244] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[08Dec2025 20:49:09.246] [Server thread/INFO] [Framework/]: Finished unloading server configs
